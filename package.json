@@ -1,0 +1,26 @@
+{
+  "name": "learning-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamurjon7191/Learning-graphQl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamurjon7191/Learning-graphQl/issues"
+  },
+  "homepage": "https://github.com/mamurjon7191/Learning-graphQl#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0",
+    "nodemon": "^2.0.18"
+  }
+}
